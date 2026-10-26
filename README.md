@@ -42,6 +42,7 @@ Ce projet a deux objectifs :
 |---|---|
 | [`Transformers_Presentation.pdf`](Transformers_Presentation.pdf) | Présentation de 22 slides sur l'architecture du Transformer, avec les formules |
 | [`Transformers.ipynb`](Transformers.ipynb) | Notebook : résumé automatique, analyse de la cross-attention et évaluation |
+| [`requirements.txt`](requirements.txt) | Dépendances Python pour exécuter le notebook en local |
 
 ---
 
@@ -169,7 +170,7 @@ Clique sur le badge [![Open in Colab](https://colab.research.google.com/assets/c
 ```bash
 git clone https://github.com/filou337/Transformers-.git
 cd Transformers-
-pip install torch "transformers<5" sentencepiece rouge_score bert_score matplotlib pandas jupyter
+pip install -r requirements.txt
 jupyter notebook Transformers.ipynb
 ```
 

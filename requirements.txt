@@ -1,0 +1,8 @@
+torch
+transformers<5  # le tokenizer BARThez ne fonctionne pas avec transformers 5.x
+sentencepiece
+rouge_score
+bert_score
+matplotlib
+pandas
+jupyter
