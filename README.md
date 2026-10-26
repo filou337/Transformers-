@@ -8,6 +8,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Transformers-FFD21E?logoColor=black)](https://huggingface.co/docs/transformers)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/filou337/Transformers-/blob/main/Transformers.ipynb)
+[![License: MIT](https://img.shields.io/badge/Licence-MIT-green.svg)](LICENSE)
 
 *Emmanuel THE · Philippe Roumbo · Décembre 2025*
 
@@ -24,6 +25,7 @@
 - [Résultats](#-résultats)
 - [Lancer le projet](#-lancer-le-projet)
 - [Références](#-références)
+- [Licence](#-licence)
 
 ---
 
@@ -183,6 +185,12 @@ jupyter notebook Transformers.ipynb
 - Lin, 2004 : [*ROUGE: A Package for Automatic Evaluation of Summaries*](https://aclanthology.org/W04-1013/)
 - Zhang et al., 2020 : [*BERTScore: Evaluating Text Generation with BERT*](https://arxiv.org/abs/1904.09675)
 - [Documentation Hugging Face Transformers](https://huggingface.co/docs/transformers)
+
+---
+
+## 📄 Licence
+
+Ce projet est distribué sous licence [MIT](LICENSE).
 
 ---
 
