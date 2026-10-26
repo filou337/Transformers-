@@ -169,7 +169,7 @@ Clique sur le badge [![Open in Colab](https://colab.research.google.com/assets/c
 ```bash
 git clone https://github.com/filou337/Transformers-.git
 cd Transformers-
-pip install torch transformers sentencepiece rouge_score bert_score matplotlib pandas jupyter
+pip install torch "transformers<5" sentencepiece rouge_score bert_score matplotlib pandas jupyter
 jupyter notebook Transformers.ipynb
 ```
 
